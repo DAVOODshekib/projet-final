@@ -1,0 +1,202 @@
+body{
+  background-color: #fff3e2;
+}
+
+
+
+*{
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+
+.trombones{
+  position: absolute;
+  width:20px;
+  top: 40px;
+  left: 4px;
+
+
+}
+.titr{
+  position: absolute;
+  text-align:center;
+  top: 70px;
+  right: 35%;
+  border: 0px solid ;
+  height: 3px;
+
+}
+.features{
+  position: absolute;
+  right: 400px;
+  top:30px;
+}
+.How{
+  position: absolute;
+  right: 240px;
+  top:30px;
+}
+.Pricing{
+    position: absolute;
+    right: 100px;
+    top:30px;
+}
+.input{
+
+  position: absolute;
+  left: 41%;
+  top:15%;
+  color: red;
+  border: 5px;
+
+}
+
+button{
+  position: absolute;
+  top:25%;
+  right: 44%;
+  transform: translate(-50%,-50%);
+
+}
+button{
+  background: yellow;
+  color: black;
+  width: 120px;
+  height: 25px;
+  border: 1px solid #yellow;
+  font-size: 10px;
+  border-radius:10px;overflow: hidden;
+}
+.flame{
+  position: absolute;
+  width:20px;
+  top: 30%;
+  left: 20%;
+}
+  .camion{
+  position: absolute;
+  width:20px;
+  top: 45%;
+  left: 20%;
+  }
+.medaille{
+  position: absolute;
+  width:20px;
+  top: 60%;
+  left: 20%;
+}
+
+.text-f{
+  position: absolute;
+  width:1000px;
+  top: 30%;
+  left: 25%;
+  border: 0px solid ;
+  height: 3px;
+
+}
+.camion-text{
+  position: absolute;
+  width:1000px;
+  top: 42%;
+  left: 25%;
+  border: 0px solid ;
+  height: 3px;
+}
+.medaille-text{
+  position: absolute;
+  width:1000px;
+  top: 57%;
+  left: 25%;
+  border: 0px solid ;
+  height: 3px;
+}
+.Pricing-I{
+  position: absolute;
+  width:16%;
+  top: 110%;
+  left: 25%;
+  border: 0px solid ;
+  height: 3px;
+  margin-bottom:20%;
+}
+.Pricing-II{
+  position: absolute;
+  width:16%;
+  top: 110%;
+  left: 40%;
+  border: 0px solid ;
+  height: 3px;
+  margin-bottom:20%;
+}
+.Pricing-III{
+    position: absolute;
+    width:16%;
+    top: 110%;
+    left: 55%;
+    border: 0px solid ;
+    height: 3px;
+    margin-bottom:20%;
+  }
+  .btn-I{
+    position: absolute;
+    background: NON;
+    color: black;
+    width: 20%;
+    height: 20%;
+    border: 4px 3px #yellow;
+    font-size: 20%;
+    border-radius:20px;overflow: hidden;
+    top: 135%;
+    left: 60%;
+  }
+.btn-II{
+  position: absolute;
+  background: NON;
+  color: black;
+  width: 20%;
+  height: 20%;
+  border: 4px 3px #yellow;
+  font-size: 20%;
+  border-radius:20px;overflow: hidden;
+  top: 135%;
+  left: 30%;
+}
+.btn-III{
+  position: absolute;
+  background: NON;
+  color: black;
+  width: 20%;
+  height: 20%;
+  border: 4px 3px #yellow;
+  font-size: 20%;
+  border-radius:20px;overflow: hidden;
+  top: 135%;
+  left: 45%;
+}
+.final{
+  position: absolute;
+  right: 380px;
+  top:155%;
+}
+.privacy{
+  position: absolute;
+  right: 40%;
+  top:150%;
+}
+.Terms{
+  position: absolute;
+  right: 35%;
+  top:150%;
+}
+.Contact{
+  position: absolute;
+  right: 28%;
+  top:150%;
+}
+iframe{
+  position: absolute;
+  right: 32%;
+  top:70%;
+}
